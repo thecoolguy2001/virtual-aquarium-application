@@ -1,11 +1,11 @@
 {
-    "name": "cw05",
-    "short_name": "cw05",
+    "name": "Virtual Aquarium",
+    "short_name": "Aquarium",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Interactive virtual aquarium built with Flutter featuring animated fish, configurable behavior, and local persistence.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
